@@ -3,7 +3,7 @@
 - 💬 Ask me about evrything https://www.facebook.com/maksym.v.havrylov/
 - ⚡ Fun fact: nothing funny :D
 - 🔭 my last works:
- - Page for sale of apartments in the new building (desctop version only) (https://maksym-havrylov.github.io/melody/)
+- - Page for sale of apartments in the new building (desctop version only) (https://maksym-havrylov.github.io/melody/)
 - - New movie site (https://maksym-havrylov.github.io/film/)
 - - The page for filling in the form fields. done in 2 hours (https://maksym-havrylov.github.io/Personal-info-form/)
 - - Landing-Page for some "product" (https://maksym-havrylov.github.io/prodoct/)
