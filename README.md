@@ -4,22 +4,22 @@
 ⚡ Fun fact: nothing funny :D
 🔭 my last works:
 1) Page for sale of apartments in the new building (desctop version only) (https://maksym-havrylov.github.io/melody/)<br>
-The technology I used in the project:
+The technology I used in the project:<br>
 - html
 - css
 - js(jquery)
 2) New movie site (https://maksym-havrylov.github.io/film/)<br>
-The technology I used in the project:
+The technology I used in the project:<br>
 - html
 - css
 - js(jquery)
 3) The page for filling in the form fields. done in 2 hours (https://maksym-havrylov.github.io/Personal-info-form/)<br>
-The technology I used in the project:
+The technology I used in the project:<br>
 - html
 - css
 - js
 4) Landing-Page for some "product" (https://maksym-havrylov.github.io/prodoct/)<br>
-The technology I used in the project:
+The technology I used in the project:<br>
 - html
 - css(scss)
 - js
