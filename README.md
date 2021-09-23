@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning https://contented.ru/edu/ux-ui-designer (UX/UI designer) and js <br>
-💬 Ask me about evrything https://www.facebook.com/maksym.v.havrylov/ <br>
+🌱 I’m currently learning <a href="https://contented.ru/edu/ux-ui-designer">UX/UI designer</a> and js <br>
+💬 Ask <a href="https://www.facebook.com/maksym.v.havrylov/">me</a> about evrything<br>
 ⚡ Fun fact: nothing funny :D <br>
 🔭 my last works: <br>
 1) <a href="https://maksym-havrylov.github.io/car_promotion/">Car Promotion Website</a><br>
