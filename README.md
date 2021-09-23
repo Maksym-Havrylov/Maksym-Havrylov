@@ -3,22 +3,27 @@
 💬 Ask me about evrything https://www.facebook.com/maksym.v.havrylov/ <br>
 ⚡ Fun fact: nothing funny :D <br>
 🔭 my last works: <br>
-1) Page for sale of apartments in the new building (desctop version only) (https://maksym-havrylov.github.io/melody/)<br>
+1) <a href="https://maksym-havrylov.github.io/car_promotion/">Car Promotion Website</a><br>
+The technology I used in the project:
+- html
+- css(sass)
+- js
+1) <a href="https://maksym-havrylov.github.io/melody/">Page for sale of apartments in the new building</a> (desctop version only)<br>
 The technology I used in the project:
 - html
 - css
 - js(jquery)
-2) New movie site (https://maksym-havrylov.github.io/film/)<br>
+2) <a href="https://maksym-havrylov.github.io/film/">New movie site</a><br>
 The technology I used in the project:
 - html
 - css
 - js(jquery)
-3) The page for filling in the form fields. done in 2 hours (https://maksym-havrylov.github.io/Personal-info-form/)<br>
+3) <a href="https://maksym-havrylov.github.io/Personal-info-form/">Form fields page.</a> done in 2 hours<br>
 The technology I used in the project:
 - html
 - css
 - js
-4) Landing-Page for some "product" (https://maksym-havrylov.github.io/prodoct/)<br>
+4) <a href="https://maksym-havrylov.github.io/prodoct/">Landing-Page for some "product"</a><br>
 The technology I used in the project:
 - html
 - css(scss)
