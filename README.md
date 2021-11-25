@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning <a href="https://contented.ru/edu/ux-ui-designer">UX/UI designer</a> and js. <br>
+🌱 I’m currently learning js. <br>
 💬 Ask <a href="https://www.facebook.com/maksym.v.havrylov/">me</a> about evrything<br>
 ⚡ Fun fact: nothing funny :D <br>
 🔭 my last works: <br>
