@@ -1,6 +1,5 @@
 ### Hi there 👋
 🌱 I’m currently learning js, react. <br>
-💬 Ask <a href="https://www.facebook.com/maksym.v.havrylov/">me</a> about evrything<br>
 🔭 my last works: <br>
 1) <a href="https://maksym-havrylov.github.io/car_promotion/">Car Promotion Website</a>.<br>
 - html
@@ -31,5 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: nothing funny :D <br>
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 💬 Ask <a href="https://www.facebook.com/maksym.v.havrylov/">me</a> about evrything<br>
 
 -->
